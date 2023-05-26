@@ -1,0 +1,10 @@
+{
+    "someData": {
+        "code": "200",
+        "Success": "true",
+        "somebody": {
+            "yesUrl": "",
+            "isGo": "No"
+        }
+    }
+}
